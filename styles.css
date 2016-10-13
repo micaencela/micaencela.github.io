@@ -147,4 +147,10 @@ em {
 
 }
 
+header, footer {
+		margin: 0 auto;
+		width:88%;
+		max-width:1080px;
+		border:1px solid white;
+}
 
